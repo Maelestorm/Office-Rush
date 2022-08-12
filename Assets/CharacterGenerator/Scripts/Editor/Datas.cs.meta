@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 4ecc8c7eb400ce84c890373ca7439549
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - chasingCamera: {fileID: 4301049236883166935, guid: 46bf01dd5a74527499dd47caf11b8eec, type: 3}
+  - anim: {fileID: 9100000, guid: 1187f2e7f4eb2dd46b77e8f4d90962c4, type: 2}
+  executionOrder: 0
+  icon: {fileID: 2800000, guid: 1e6ca901bfba9ad409594f25bb1abae3, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
